@@ -5,7 +5,8 @@ public class prueba {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		
-		System.out.println("hola tus muertos");
+
+		System.out.println("hola tu puta madre");
 		
 		System.out.println("hola");
 
